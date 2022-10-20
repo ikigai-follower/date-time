@@ -1,0 +1,36 @@
+body {
+    background-color: aquamarine;
+}
+
+.gridbox {
+    position: fixed;
+    border: 2px solid black;
+    top: 150px;
+    left: 500px;
+    box-shadow: 0px 0px 10px gray;
+    width: 600px;
+    height: 300px;
+    text-align: center;
+
+    background-color: lightskyblue;
+
+}
+
+.timee{
+    font-size: 80px;
+    border: 3px solid black;
+    box-shadow: 0px 0px 10px gray;
+    background-color: lightskyblue;
+    height: 80px;
+}
+
+button{
+    color: black;
+    width: 120px;
+    height: 40px;
+    background-color: burlywood;
+    border-radius: 20px;
+}
+.redh1{
+    color: darkblue;
+}
